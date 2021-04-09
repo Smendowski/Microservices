@@ -1,4 +1,5 @@
 .dbdata
 .idea
 products/__pycache__/*
-admin/__pycache__/*
+microservices/__pycache__/*
+main/.dbdata/*
